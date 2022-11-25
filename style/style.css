@@ -1,0 +1,26 @@
+.contenido{
+    margin-left: 50px;
+}
+
+nav{
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.secHab{
+    background-color: darkcyan;
+}
+
+.centrar{
+    margin:auto;
+    display:block;
+}
+
+.secCer{
+    background-color: cornflowerblue;
+}
+
+.secPort{
+    background-color: dimgrey;
+}
